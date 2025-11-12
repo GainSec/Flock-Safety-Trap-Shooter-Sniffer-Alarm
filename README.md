@@ -1,5 +1,5 @@
 # Flock-Safety-Trap-Shooter-Sniffer-Alarm
-Custom firmware for the [M5NanoC6](ttps://shop.m5stack.com/products/m5stack-nanoc6-dev-kit) (ESP32-C6) that sniffs and then alerts you of nearby Flock Safety devices. Will be integrated into a exploit tool releasing on 09/27/25 for Flock Safety devices!
+Custom firmware for the [M5NanoC6](ttps://shop.m5stack.com/products/m5stack-nanoc6-dev-kit) (ESP32-C6) that sniffs and then alerts you of nearby Flock Safety devices. Will be integrated into a all-inone tool releasing in the future for Flock Safety devices!
 
 ![M5NanoC6](https://gainsec.com/wp-content/uploads/2025/06/nanoc6.jpg)
 
@@ -21,7 +21,6 @@ Sniffings Client Probes and Broadcast Beacons looking for 'flock' case insensiti
 * Installation Instructions
 * Flashes light when it gets a hit so you dont have to view UART
 * Sniff and filter for Flock Safety Devices based off BLE "MAC" or advertisement
-* And more to be disclosed 09/27/25!
 
 
 # Created by
